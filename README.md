@@ -87,6 +87,7 @@ API_KEY = YOUR_API_KEY_HERE
 MODEL_NAME = gemini-2.5-flash
 
 APIキーの貼り付け
+
 YOUR_API_KEY_HERE の部分を、ステップ1で取得したご自身のAPIキー（AIzaSy...から始まる長い文字列）に書き換えます。
 
 （例: API_KEY = AIzaSy...abc123）
