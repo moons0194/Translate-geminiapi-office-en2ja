@@ -1,0 +1,6 @@
+# === 設定ファイル ===
+# Google AI Studio で取得したAPIキーを貼り付けてください
+API_KEY = YOUR_API_KEY_HERE
+
+# 使用するGeminiモデル名を指定してください
+MODEL_NAME = gemini-2.5-flash
